@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <title>reCAPTCHA demo: Simple page</title>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+   
+    <script type="text/javascript" async="" src="./Google reCaptcha_files/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-mWBXzSCvkZWpx5RaelcytW0Cd6Z4jfvD8KXGlIhtj2oslLdEw6Wr3ehrL2n1qtM/"></script>
+
+  </head>
+  <body>
+    <form action="https://sketify.tk/bot.html" method="POST">
+      <div id="reCAPTCHA" class="g-recaptcha" data-sitekey="6LdWjXgaAAAAAAdCYn4GqPvW3IS-CtEQZIZdB-EU" data-callback = "onSuccess" ></div>
+      <br/>
+      
+      <button name="button" type="button" onclick="ok()">S</button>
+       <script>
+
+        function ok() {
+
+          onSuccess();
+
+document.getElementById("reCAPTCHA").data-callback = "onSuccess";
+alert("hi")
+          
+          
+          function(response) {
+          setTimeout(function() {
+            parent.location.href = "https://www.sketchwarehelp.ga";
+          }, 800);
+        }
+
+        var onSuccess = function(response) {
+          setTimeout(function() {
+            parent.location.href = "https://www.sketchwarehelp.ga";
+          }, 800);
+        };</script>
+    </form>
+  </body>
+</html>

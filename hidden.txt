@@ -1,0 +1,147 @@
+ 
+
+
+<!-- Start explore section -->
+    <section class="explore-section section-gap-full relative">
+        <div class="overlay overlay-bg"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 explore-left">
+                    <h3>Explore More</h3>
+                    <h1>Other Features</h1>
+                    <p>
+                        The bedding was hardly able to cover it and seemed ready to slide off any moment.His many legs,
+                        pitifully thin compared with
+                        the size of the rest of him.
+                    </p>
+                    <div class="d-flex counter-wrap">
+                        <div class="single-counter">
+                            <h2>2.5K+</h2>
+                            <p>Download</p>
+                        </div>
+                        <div class="single-counter">
+                            <h2>2K+</h2>
+                            <p>Review</p>
+                        </div>
+                        <div class="single-counter">
+                            <h2>3.4K+</h2>
+                            <p>Active User</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 explore-right"></div>
+            </div>
+        </div>
+    </section>
+    <!-- End explore section -->
+
+
+ <!-- Start testimonial section -->
+    <section class="testimonial-section section-gap-full" id="testimonial-section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-4 testimonial-left">
+                    <h2>What People Says</h2>
+                    <p>
+                        Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorperi.
+                    </p>
+                </div>
+                <div class="col-lg-8 testimonial-right">
+                    <div class="testimonial-carusel owl-carousel" id="testimonial-carusel">
+                        <div class="single-testimonial item">
+                            <p>
+                                “Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+                                laudantium, totam rem aperiam.”
+                            </p>
+                            <div class="user-details d-flex flex-row align-items-center">
+                                <div class="img-wrap">
+                                    <img src="img/avatar1.jpg" alt="">
+                                </div>
+                                <div class="details">
+                                    <h4>Alice Johnson</h4>
+                                    <p>Business Development</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single-testimonial item">
+                            <p>
+                                “Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+                                laudantium, totam rem aperiam.”
+                            </p>
+                            <div class="user-details d-flex flex-row align-items-center">
+                                <div class="img-wrap">
+                                    <img src="img/avatar2.jpg" alt="">
+                                </div>
+                                <div class="details">
+                                    <h4>Amber Mcdonald</h4>
+                                    <p>Web Developer</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single-testimonial item">
+                            <p>
+                                “Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+                                laudantium, totam rem aperiam.”
+                            </p>
+                            <div class="user-details d-flex flex-row align-items-center">
+                                <div class="img-wrap">
+                                    <img src="img/avatar3.jpg" alt="">
+                                </div>
+                                <div class="details">
+                                    <h4>Rhonda Barnes</h4>
+                                    <p>UI/UX Designer</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single-testimonial item">
+                            <p>
+                                “Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+                                laudantium, totam rem aperiam.”
+                            </p>
+                            <div class="user-details d-flex flex-row align-items-center">
+                                <div class="img-wrap">
+                                    <img src="img/avatar1.jpg" alt="">
+                                </div>
+                                <div class="details">
+                                    <h4>Alice Johnson</h4>
+                                    <p>Business Development</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single-testimonial item">
+                            <p>
+                                “Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+                                laudantium, totam rem aperiam.”
+                            </p>
+                            <div class="user-details d-flex flex-row align-items-center">
+                                <div class="img-wrap">
+                                    <img src="img/avatar2.jpg" alt="">
+                                </div>
+                                <div class="details">
+                                    <h4>Amber Mcdonald</h4>
+                                    <p>Web Developer</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single-testimonial item">
+                            <p>
+                                “Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+                                laudantium, totam rem aperiam.”
+                            </p>
+                            <div class="user-details d-flex flex-row align-items-center">
+                                <div class="img-wrap">
+                                    <img src="img/avatar3.jpg" alt="">
+                                </div>
+                                <div class="details">
+                                    <h4>Rhonda Barnes</h4>
+                                    <p>UI/UX Designer</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End testimonial section -->
+
