@@ -1,6 +1,6 @@
 Sketify Landing Page serves as the official web portal for the Sketify Android application, offering visitors a centralized platform to download the app and access essential information.
 
-Key Features:
+# Key Features:
 
 Direct Download Links: The landing page provides straightforward access to download the Sketify app, ensuring users can easily install it on their Android devices.
 
